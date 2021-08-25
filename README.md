@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Demner21
 - 👀 I’m interested in ... learn and play with software
-- 🌱 I’m currently learning ... docker with JavaEE microservices
+- 🌱 I’m currently learning ... AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
