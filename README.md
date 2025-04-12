@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Demner21
-- 👀 I’m interested in ... learn and play with software
-- 🌱 I’m currently learning ... AWS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m dmnr
+- 👀 I’m interested in write quality code
+- 🌱 I’m currently learning k8s/homelabs
 
 <!---
 Demner21/Demner21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
