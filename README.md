@@ -1,5 +1,4 @@
-- 👋 Hi, I’m dmnr
-- 👀 I’m interested in write quality code
+- 👋 Hi, I’m Demner
 - 🌱 I’m currently learning k8s/homelabs
 
 <!---
